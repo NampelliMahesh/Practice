@@ -10,4 +10,5 @@ def mult(a,b):
     mul=a*b
     return mul
 
+print("main3")
 print("abc")
