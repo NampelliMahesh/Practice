@@ -19,3 +19,7 @@ def sub(a,b):
     return sub
 
 print("hello")
+app.post("/abc")
+def mult(a,b):
+    mul=a*b
+    return mul
