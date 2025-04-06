@@ -9,3 +9,5 @@ app.post("/abc")
 def mult(a,b):
     mul=a*b
     return mul
+
+print("abc")
